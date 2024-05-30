@@ -1,0 +1,46 @@
+.container-4 {
+    position: relative;
+}
+.video-box {
+    position: absolute;
+    top: 93rem;
+    left: 9rem;
+    width: 36%;
+    /* height: 50%; */
+    border-radius: 20px;
+}
+.video-box2 {
+    position: absolute;
+    top: 93rem;
+    left: 41rem;
+    width: 36%;
+    /* height: 50%; */
+    border-radius: 20px;
+    
+
+}
+.container-5 {
+    position: relative;
+}
+.video-fit-box {
+    position: absolute;
+    top: 128rem;
+    left: 9rem;
+    width: 100%;
+    max-width: 1005px;
+    border: 1px solid black;
+    margin: auto;
+    display: block;
+}
+.container-6 {
+    position: relative;
+}
+.video-fit-box2 {
+    position: absolute;
+    top: 161rem;
+    left: 9rem;
+    width: 100%;
+    max-width: 1005px;
+    margin: auto;
+    display: block;
+}

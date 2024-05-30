@@ -1,0 +1,18 @@
+.container-9 {
+    position: relative;
+}
+.Frequently-Asked {
+    position: absolute;
+    top: 340rem;
+    left: 21rem;
+    font-weight: bolder;
+    font-size: 50px;
+
+}
+.accordion {
+    position: absolute;
+    top: 347rem;
+    left: 10rem;
+    border: none;
+
+}

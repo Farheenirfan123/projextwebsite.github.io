@@ -1,0 +1,112 @@
+.container-7 {
+    position: relative;
+}
+.container-7-text {
+    position: absolute;
+    top: 199rem;
+    left: 14rem;
+    font-size: 55px;
+    font-weight: bolder;
+    
+}
+.container-7-para {
+    position: absolute;
+    top: 209rem;
+    left: 14rem;
+    font-size: 25px;
+    font-weight: bolder;
+    color: cadetblue;
+    
+}
+.container-7-text2 {
+    position: absolute;
+    top: 203rem;
+    left: 20rem;
+    font-size: 55px;
+    font-weight: bolder;
+    color: #6f42c1;
+}
+.img-box {
+    position: absolute;
+    top: 218rem;
+    left: 13rem;
+   
+}
+.img-box2 {
+    position: absolute;
+    top: 218rem;
+    left: 50rem;
+   
+}
+.img-box3 {
+    position: absolute;
+    top: 237rem;
+    left: 13rem;
+   
+}
+.img-box4 {
+    position: absolute;
+    top: 237rem;
+    left: 34rem;
+   
+}
+.img-box5 {
+    position: absolute;
+    top: 237rem;
+    left: 55rem;
+   
+}
+.img-box6 {
+    position: absolute;
+    top: 257rem;
+    left: 13rem;
+   
+}
+.img-box7 {
+    position: absolute;
+    top: 257rem;
+    left: 34rem;  
+}
+.img-box8 {
+    position: absolute;
+    top: 257rem;
+    left: 55rem;  
+}
+.card-content {
+    margin-top: 40%;
+}
+.card-content2 {
+    margin-top: 53%;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  .card-text {
+    margin-top: 15%;
+  }
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

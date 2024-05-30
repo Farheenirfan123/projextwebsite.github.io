@@ -1,0 +1,18 @@
+.container-10 {
+    position: relative;
+}
+.con-10 {
+    position: absolute;
+    top: 378rem;
+    left: 10rem;
+}
+.world {
+    font-size: 60px;
+    font-weight: bolder;
+}
+.create-btn2 {
+    margin: 0;
+    width: 40%;
+    left: 50%;
+ 
+}
