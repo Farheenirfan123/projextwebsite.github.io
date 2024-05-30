@@ -2,8 +2,11 @@
     margin: 0;
     padding: 0;
 }
+html {
+    scroll-behavior: smooth;
+}
  body {
-    background: linear-gradient( #6610f2, #6f42c1, #e83e8c);
+    background: linear-gradient( #6610f2, #0A0F40, #0A0F40);
 }
 
 .login-btn{

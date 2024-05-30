@@ -1,12 +1,21 @@
 .content-2 {
     background-color: white;
-    height: 7000px;
-    width: auto;
+    height: 6508px;
+    width: 100%;
     border-top-left-radius: 4%;
     border-top-right-radius: 4%;
-    margin-top: 190px; 
+    border-bottom-left-radius: 7%;
+    border-bottom-right-radius: 7%;
+    margin-top: 193px; 
     position: relative;  
    
+}
+@media screen and (max-width: 300px) {
+    .video-placeholder {
+        width: 400px;
+
+    }
+    
 }
 .hero-video {
     border-radius: 20px;
@@ -38,12 +47,13 @@ video {
 }
 .box1 {
     position: absolute;
-    top: 33rem;
+    top: 35rem;
     left: 13rem;
+    
 }
 div .img {
     position: absolute;
-    top: 33rem;
+    top: 35rem;
     left: 37rem;
 }
 .container-3 {
@@ -57,6 +67,8 @@ div .img {
 .container-3-heading {
     font-size: 57px;
 }
+
+
 .container-3-heading2 {
     font-size: 57px;
     color: #6f42c1;
